@@ -1,7 +1,11 @@
+## Category: Comportemennt
+## Definition : 
 Le modèle d'observateur définit une dépendance
 un-à-plusieurs entre les objets de sorte que 
 lorsqu'un objet change d'état, toutes ses 
 dépendances sont notifiées et mises à jour automatiquement.
+
+
 ![img.png](img.png)
 ##Notre objectif
 

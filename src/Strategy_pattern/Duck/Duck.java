@@ -1,5 +1,4 @@
 package Strategy_pattern.Duck;
-
 import Strategy_pattern.FlyBehavior.FlyBehavior;
 import Strategy_pattern.QuackBehavior.QuackBehavior;
 

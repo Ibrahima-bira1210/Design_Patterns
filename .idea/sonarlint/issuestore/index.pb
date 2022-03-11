@@ -1,3 +1,31 @@
 
-S
-#src/Strategy_pattern/description.md,2/d/2de60d79637c2211f9dbef4b209b54845486e7ec
+a
+1src/Strategy_pattern/FlyBehavior/FlyBehavior.java,c/c/cc96b83c93fca0cac815794b4ea0b53d227ed9e2
+b
+2src/Strategy_pattern/FlyBehavior/FlyWithWings.java,c/5/c58426e88b0e976bb2bf073535d1e19a4e7a5c5b
+^
+.src/Strategy_pattern/FlyBehavior/FlyNoWay.java,0/e/0e63d4ba111ca1b05d641cc9e8ab4f4383363fa1
+g
+7src/Observer_Pattern/displayElement/ForcastDisplay.java,b/6/b6f00f8d9b0ebfce85b95791006e9f4647ff1fbf
+\
+,src/Observer_Pattern/Interfaces/Subject.java,a/a/aa9cf836349fea3d0f4a95cfcb6b4039eedaec03
+\
+,src/Observer_Pattern/Interfaces/Display.java,f/0/f0a38d9394f3ea68d7a795e6aa3e483c970c7f04
+]
+-src/Observer_Pattern/Interfaces/Observer.java,f/0/f083e7b253122f803a622ccd676cc152aa2afb81
+p
+@src/Observer_Pattern/displayElement/CurrentConditionDisplay.java,e/1/e1620f295e2dbcd32d5a15847c30d9163a4ecad6
+e
+5src/Strategy_pattern/QuackBehavior/QuackBehavior.java,5/4/54d48b396a843bbddae53e80b9e93bf89f0aa622
+]
+-src/Strategy_pattern/QuackBehavior/Quack.java,e/0/e060288fae98267e1f302b3cc5046100a28dba7b
+a
+1src/Strategy_pattern/QuackBehavior/MuteQuack.java,0/b/0be51b7ac71bfe516479321d8773f7bb7f1d9822
+g
+7src/Observer_Pattern/displayElement/StaticsDisplay.java,e/5/e51f1a4d7bc582e3c153500fb87592ac6346d7ac
+^
+.src/Strategy_pattern/QuackBehavior/Squeak.java,0/c/0cbebfacb51e972dae67c4575734ba736c2fad04
+U
+%src/Observer_Pattern/WeatherData.java,4/c/4c4dd00878fe97eec726640b6e1fb17f2d5cfac7
+9
+	.dcignore,7/7/7791000a9a93019a87d67e0b676c86447ba29c67
