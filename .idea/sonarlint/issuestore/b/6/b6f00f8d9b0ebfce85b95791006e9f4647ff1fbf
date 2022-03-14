@@ -1,0 +1,11 @@
+
+:
+java:S3457"%String contains no format specifiers.(«ŞİJ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(«ŞİJ
+;
+java:S3457"%String contains no format specifiers.(«¯ã‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«¯ã‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çõê÷ùÿÿÿÿ
+J
+java:S1068	"/Remove this unused "weatherData" private field.(òÿÉ™øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Íä¾şÿÿÿÿ
