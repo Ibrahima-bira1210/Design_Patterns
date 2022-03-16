@@ -60,3 +60,11 @@ Y
 )src/Decorator_pattern/components/Tea.java,3/4/34521bdca63efb144b542e2d01611b8b19d72dc6
 ]
 -src/Decorator_pattern/decorators/Vanille.java,5/9/5951fb91dfe1a7acebc5a760aad8206274ddbef4
+O
+src/composite_pattern/Test.java,7/3/73c767ec26287105330ee9675b984a4096b53767
+V
+&src/composite_pattern/comp/Folder.java,1/9/1923a43f72c1a0b6c76488d0e2d59cc21d6e8be7
+T
+$src/composite_pattern/comp/File.java,0/b/0b833a5e0772112b0ec43e606cec4eab7e25a4f1
+Y
+)src/composite_pattern/comp/Component.java,b/0/b089bf14649bec65a5891b0d391c617703ef1467
